@@ -1,0 +1,20 @@
+Overriding: out_dir = /content/nanoGPT/nanoGPT_Member3_Working/run_25/checkpoint
+Overriding: device = cuda
+Overriding: compile = False
+Overriding: seed = 1337
+Overriding: num_samples = 1
+Overriding: max_new_tokens = 300
+Overriding: temperature = 0.8
+Overriding: top_k = 20
+number of parameters: 3.16M
+Loading meta from data/shakespeare_char/meta.pkl...
+
+And the the we will to low be madiret bube to tanthen.
+
+MENCELIO:
+I's that fou the he thar dill wates wick, you ford,
+An hem he owhave of it he me millllill, ath is eas nomin lat;
+Faid ove than the longhire than owelllind thave thus, co hiry:
+As that splle y hellly sen amope tow deand:
+I shoullle ak
+---------------

@@ -1,0 +1,23 @@
+Overriding: out_dir = /content/nanoGPT/nanoGPT_Member1_Results/run_28/checkpoint
+Overriding: device = cuda
+Overriding: compile = False
+Overriding: seed = 1337
+Overriding: num_samples = 1
+Overriding: max_new_tokens = 300
+Overriding: temperature = 0.8
+Overriding: top_k = 20
+number of parameters: 3.16M
+Loading meta from data/shakespeare_char/meta.pkl...
+
+And the merth own, a day froth
+This that ext enantirn'd the gaid
+he arthis foul him to barterlaccauess.
+
+MEO:
+I fastarry of me, of the of is heart my would that mire,
+Eve contlatise in ove the the know and and bood like dience.
+
+KING RICHARY:
+Aupt as speat you lord's not of this death:
+I lood moth a
+---------------

@@ -1,0 +1,19 @@
+Overriding: out_dir = /content/nanoGPT/nanoGPT_Member3_Working/run_08/checkpoint
+Overriding: device = cuda
+Overriding: compile = False
+Overriding: seed = 1337
+Overriding: num_samples = 1
+Overriding: max_new_tokens = 300
+Overriding: temperature = 0.8
+Overriding: top_k = 20
+number of parameters: 0.80M
+Loading meta from data/shakespeare_char/meta.pkl...
+
+And the my you will to on, be madise,
+To you enave rud my dagatanss: mant he shear,
+And ar dilas ane awick my thand arry ofom,
+Your proof is he me milled the and is enseng,
+A lat staid ove the the me now on that owelll now,
+So this my now hy stup the splaw you lom,
+She roope thave whom the oull thak
+---------------

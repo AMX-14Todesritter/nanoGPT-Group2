@@ -1,0 +1,19 @@
+Overriding: out_dir = /content/nanoGPT/nanoGPT_Member1_Results/run_26/checkpoint
+Overriding: device = cuda
+Overriding: compile = False
+Overriding: seed = 1337
+Overriding: num_samples = 1
+Overriding: max_new_tokens = 300
+Overriding: temperature = 0.8
+Overriding: top_k = 20
+number of parameters: 3.16M
+Loading meta from data/shakespeare_char/meta.pkl...
+
+And the ond will and is so be madiest bube to tanther.
+
+MARCELUNGHI:
+Whith fould a heet as ding wate awill my thand a of onour
+You sproof is heart milend ling es is enten cin latiser,
+Wor the and the now ond wat of lill dite litheser on him sprup;
+Ond and, yeanl to she and and and whould swoul to an
+---------------

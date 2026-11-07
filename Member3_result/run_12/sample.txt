@@ -1,0 +1,22 @@
+Overriding: out_dir = /content/nanoGPT/nanoGPT_Member3_Working/run_12/checkpoint
+Overriding: device = cuda
+Overriding: compile = False
+Overriding: seed = 1337
+Overriding: num_samples = 1
+Overriding: max_new_tokens = 300
+Overriding: temperature = 0.8
+Overriding: top_k = 20
+number of parameters: 3.16M
+Loading meta from data/shakespeare_char/meta.pkl...
+
+
+AUT:
+If this own, which yet that see but our take and my dalied
+he with him a quee to baredilth aness.
+
+MENENIUS:
+The my look
+You some for the commilendill, and is easen min;
+Sir, there by was in me not on you souel ling that the he cour by prave ands
+Withy hell not not of this deathe my would that
+---------------

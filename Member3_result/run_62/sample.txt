@@ -1,0 +1,19 @@
+Overriding: out_dir = /content/nanoGPT/nanoGPT_Member3_Working/run_62/checkpoint
+Overriding: device = cuda
+Overriding: compile = False
+Overriding: seed = 1337
+Overriding: num_samples = 1
+Overriding: max_new_tokens = 300
+Overriding: temperature = 0.8
+Overriding: top_k = 20
+number of parameters: 4.74M
+Loading meta from data/shakespeare_char/meta.pkl...
+
+
+All beford will and is to be madient bead to take ruans
+Bealinanss art that sher the that dilth ane
+Away, my thand a will our to the to tis he me mal;
+I ling eg if ensen com latient drove to do kin ther
+Will and sel lind that the he cour by prage ands
+Withy hour mad noth pater'd sond thy word to ki
+---------------

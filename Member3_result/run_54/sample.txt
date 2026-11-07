@@ -1,0 +1,22 @@
+Overriding: out_dir = /content/nanoGPT/nanoGPT_Member3_Working/run_54/checkpoint
+Overriding: device = cuda
+Overriding: compile = False
+Overriding: seed = 1337
+Overriding: num_samples = 1
+Overriding: max_new_tokens = 300
+Overriding: temperature = 0.8
+Overriding: top_k = 20
+number of parameters: 1.19M
+Loading meta from data/shakespeare_char/meta.pkl...
+
+CANCABRRRD:
+Olowild thal fert matiren boay to tanth ther
+Beatied he ar haphe us he hent?
+
+MEORND:
+A, awice my thand at meren he ownt, tof is he me mil;
+I lot at miree sen cin lat sthid ove the the me nore
+And an thel lind thand thule onch by prupe aisstht,
+If whe mal normope sig deand:
+I I the toung
+---------------

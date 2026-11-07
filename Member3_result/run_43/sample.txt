@@ -1,0 +1,18 @@
+Overriding: out_dir = /content/nanoGPT/nanoGPT_Member3_Working/run_43/checkpoint
+Overriding: device = cuda
+Overriding: compile = False
+Overriding: seed = 1337
+Overriding: num_samples = 1
+Overriding: max_new_tokens = 300
+Overriding: temperature = 0.8
+Overriding: top_k = 20
+number of parameters: 4.74M
+Loading meta from data/shakespeare_char/meta.pkl...
+
+When thy brid own, which ferter a sent of our take rud my dalina
+her raction us crown. When that ane away, my feanst to my must of the of it heart
+milend to caus is enten contlation in overs,
+Her the news in waites like dise of the me deam:
+The princess, why helse the croope to the hope.
+Who like ag
+---------------

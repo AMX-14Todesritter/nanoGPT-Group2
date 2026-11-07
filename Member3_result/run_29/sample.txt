@@ -1,0 +1,20 @@
+Overriding: out_dir = /content/nanoGPT/nanoGPT_Member3_Working/run_29/checkpoint
+Overriding: device = cuda
+Overriding: compile = False
+Overriding: seed = 1337
+Overriding: num_samples = 1
+Overriding: max_new_tokens = 300
+Overriding: temperature = 0.8
+Overriding: top_k = 20
+number of parameters: 3.16M
+Loading meta from data/shakespeare_char/meta.pkl...
+
+And the fromecown, which yet that see buter we and rudnes
+That and be that foul him to bareding
+Have away, my facks arry onour and the of in hearth!
+Whed like their ensentsin lation, diev the deent not.
+
+Firstan:
+Well in you like up, on him spear; and all,
+If when the croopessight whome you demeth a
+---------------

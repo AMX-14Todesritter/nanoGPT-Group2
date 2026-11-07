@@ -1,0 +1,20 @@
+Overriding: out_dir = /content/nanoGPT/nanoGPT_Member3_Working/run_05/checkpoint
+Overriding: device = cuda
+Overriding: compile = False
+Overriding: seed = 1337
+Overriding: num_samples = 1
+Overriding: max_new_tokens = 300
+Overriding: temperature = 0.8
+Overriding: top_k = 20
+number of parameters: 0.80M
+Loading meta from data/shakespeare_char/meta.pkl...
+
+MANET:
+I thid wou, har lay beve aised bube to tanth ther me
+You oust rant he usthe he thar dilth ane awiced you,
+Thand my tou thou sprtof is heart mil now
+Whane miree sto con lat sthid ove spand;
+Wil now thay and selll now, and thull onchiry:
+As thaiss hew you lom as nord peang to whor
+I shoulllt ak
+---------------

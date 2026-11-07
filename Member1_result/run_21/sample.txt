@@ -1,0 +1,20 @@
+Overriding: out_dir = /content/nanoGPT/nanoGPT_Member1_Results/run_21/checkpoint
+Overriding: device = cuda
+Overriding: compile = False
+Overriding: seed = 1337
+Overriding: num_samples = 1
+Overriding: max_new_tokens = 300
+Overriding: temperature = 0.8
+Overriding: top_k = 20
+number of parameters: 0.80M
+Loading meta from data/shakespeare_char/meta.pkl...
+
+MANED:
+I brid owingh is so be madire, bode to tanth ther meatatanss:
+Whit he us he heet ar dilld ane awilld of hand a om onour
+to the tof is he me milend lincees if ees,
+I in lat stt drove the the me nong iserans!
+
+A wind thave thuer onchery stave aiss hew you lom,
+He you peang to whould shou moth a
+---------------

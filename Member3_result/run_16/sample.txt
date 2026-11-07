@@ -1,0 +1,22 @@
+Overriding: out_dir = /content/nanoGPT/nanoGPT_Member3_Working/run_16/checkpoint
+Overriding: device = cuda
+Overriding: compile = False
+Overriding: seed = 1337
+Overriding: num_samples = 1
+Overriding: max_new_tokens = 300
+Overriding: temperature = 0.8
+Overriding: top_k = 20
+number of parameters: 3.16M
+Loading meta from data/shakespeare_char/meta.pkl...
+
+
+KING RICHARD II:
+Shall not the dise abour deed at reate
+Beatied her to thee us heart. What that a endreat my fears,
+You have thousand of it here this nown bout misters.
+
+Lie;
+Sir, there by the do me now on that speaks no me of thee, cour by atter
+Of speak you love.
+I came a sight whom the shall bag
+---------------

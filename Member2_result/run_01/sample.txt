@@ -1,0 +1,21 @@
+Overriding: out_dir = /content/nanoGPT/nanoGPT_Member2_Working/run_01/checkpoint
+Overriding: device = cuda
+Overriding: compile = False
+Overriding: seed = 1337
+Overriding: num_samples = 1
+Overriding: max_new_tokens = 300
+Overriding: temperature = 0.8
+Overriding: top_k = 20
+number of parameters: 1.19M
+Loading meta from data/shakespeare_char/meta.pkl...
+
+CANCIO:
+Rory cowingh is sor thibe seak oue tontanth ther meagatanss:
+Whith foul he heet ar dilas ane awice my.
+
+Hand wom I mupe owht, tof is heang mil now
+Whanes iree sen cin lat sthid ove thand;
+Whe nour iseran thel lind thand thule onchery:
+As thais alle yo win mas nord peeelives
+Ang this demeth g
+---------------

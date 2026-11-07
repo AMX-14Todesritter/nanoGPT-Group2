@@ -1,0 +1,20 @@
+Overriding: out_dir = /content/nanoGPT/nanoGPT_Member2_Working/run_21/checkpoint
+Overriding: device = cuda
+Overriding: compile = False
+Overriding: seed = 1337
+Overriding: num_samples = 1
+Overriding: max_new_tokens = 300
+Overriding: temperature = 0.8
+Overriding: top_k = 20
+number of parameters: 1.19M
+Loading meta from data/shakespeare_char/meta.pkl...
+
+CANERDDIRD:
+Thow and is by be madiser bube to tanthe--
+Some gatanss:
+Whith foul he he thar dilth ane awilld of hand
+at meren heat the tof is healt mil nowlll ath isee
+s nomin latisttid ove the the me now on transe
+Al lind thave thus wonch by ature aiss hew ye willl.
+I you paterives hould shou moth g
+---------------

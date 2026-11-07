@@ -1,0 +1,23 @@
+Overriding: out_dir = /content/nanoGPT/nanoGPT_Member3_Working/run_46/checkpoint
+Overriding: device = cuda
+Overriding: compile = False
+Overriding: seed = 1337
+Overriding: num_samples = 1
+Overriding: max_new_tokens = 300
+Overriding: temperature = 0.8
+Overriding: top_k = 20
+number of parameters: 4.74M
+Loading meta from data/shakespeare_char/meta.pkl...
+
+CAUTIO:
+So you will to lo, be madise my be don.
+
+KIONG RICHARD II:
+Far have I will herty comenth ane away,
+And have a with our to the to fitte be this now
+What grivee sen min latise in ove the deave the his trace!
+
+AUNGELLUTIO:
+His my derve speart and the ty mole made.
+But and and whould I shall mak
+---------------

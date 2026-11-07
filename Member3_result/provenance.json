@@ -1,0 +1,11 @@
+{
+  "nanoGPT_commit": "3adf61e154c3fe3fca428ad6bc3818b27a3b8291",
+  "dataset_sha256": "86c4e6aa9db7c042ec79f339dcb96d42b0075e16b8fc2e86bf0ca57e2dc565ed",
+  "member": 3,
+  "fixed_parameters": {
+    "block_size": 128
+  },
+  "seed_in_train_py": 1337,
+  "torch_version": "2.14.1+cu130",
+  "assumptions": "single CUDA GPU; trained from scratch; no --seed config override"
+}

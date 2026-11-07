@@ -1,0 +1,20 @@
+Overriding: out_dir = /content/nanoGPT/nanoGPT_Member3_Working/run_14/checkpoint
+Overriding: device = cuda
+Overriding: compile = False
+Overriding: seed = 1337
+Overriding: num_samples = 1
+Overriding: max_new_tokens = 300
+Overriding: temperature = 0.8
+Overriding: top_k = 20
+number of parameters: 3.16M
+Loading meta from data/shakespeare_char/meta.pkl...
+
+And the not will and is by be maderes bube to take
+On the dagaidess arthis foul him to bardeth.
+
+GLUTES:
+Have thanst thy nem he of the of is he commilend;
+Whate mireets not night stails prose and the nown
+And and selplind than the he coursence and and all ty hels
+His not of this dest my liked moth g
+---------------

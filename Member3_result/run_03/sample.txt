@@ -1,0 +1,24 @@
+Overriding: out_dir = /content/nanoGPT/nanoGPT_Member3_Working/run_03/checkpoint
+Overriding: device = cuda
+Overriding: compile = False
+Overriding: seed = 1337
+Overriding: num_samples = 1
+Overriding: max_new_tokens = 300
+Overriding: temperature = 0.8
+Overriding: top_k = 20
+number of parameters: 0.80M
+Loading meta from data/shakespeare_char/meta.pkl...
+
+
+
+COMARRRD:
+Thow and is sor the ad the obe to tanther.
+
+MENCELUNUMI:
+Watt he shear, touble dilas ane awick,
+And fald to my mughtowns, tof is he me milled;
+Whave miree sen cin latist in of the and
+Wild martiong boonel lind thave the my dervey:
+Aur the splaw you lomake nord patelives
+And the the tou g
+---------------

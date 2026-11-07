@@ -1,0 +1,23 @@
+Overriding: out_dir = /content/nanoGPT/nanoGPT_Member1_Results/run_03/checkpoint
+Overriding: device = cuda
+Overriding: compile = False
+Overriding: seed = 1337
+Overriding: num_samples = 1
+Overriding: max_new_tokens = 300
+Overriding: temperature = 0.8
+Overriding: top_k = 20
+number of parameters: 0.80M
+Loading meta from data/shakespeare_char/meta.pkl...
+
+My mant the whow and is to be madires bobe to tanth ther
+Beatied he ar hiphe us him to bardetle oane aw crum and
+Than of or me
+to the tof in he me milend lincees is ees notin;
+St strivion the and the now on that of lor now,
+She thu me now by stay hais thew ye nothers nord.
+
+
+POMERENV:
+
+Iy woull thak
+---------------

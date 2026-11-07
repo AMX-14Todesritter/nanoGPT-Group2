@@ -1,0 +1,25 @@
+Overriding: out_dir = /content/nanoGPT/nanoGPT_Member2_Working/run_05/checkpoint
+Overriding: device = cuda
+Overriding: compile = False
+Overriding: seed = 1337
+Overriding: num_samples = 1
+Overriding: max_new_tokens = 300
+Overriding: temperature = 0.8
+Overriding: top_k = 20
+number of parameters: 1.19M
+Loading meta from data/shakespeare_char/meta.pkl...
+
+CANERD:
+Rory cowingh is by be madire a of buge.
+Sight I Muchtind
+My:
+Whith fou the he thar dilld ane awich my.
+
+HARENY CESING:
+You shat fow the me mil nowll, at miree seng,
+A lat strid ove the the me now on transes lelind
+Thall thus wonch by pruge aiss hew you lome.
+I I mope sigh sher:
+
+Plot thee ak
+---------------

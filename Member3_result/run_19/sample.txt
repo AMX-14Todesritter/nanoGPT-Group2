@@ -1,0 +1,20 @@
+Overriding: out_dir = /content/nanoGPT/nanoGPT_Member3_Working/run_19/checkpoint
+Overriding: device = cuda
+Overriding: compile = False
+Overriding: seed = 1337
+Overriding: num_samples = 1
+Overriding: max_new_tokens = 300
+Overriding: temperature = 0.8
+Overriding: top_k = 20
+number of parameters: 0.80M
+Loading meta from data/shakespeare_char/meta.pkl...
+
+And the the we will to lay be madised boay to tanther.
+
+MENCELUS:
+I'll have I wear he thar dilth ane awick, you,
+Than will mure of sortof is he me mil;
+And that miree sen con lat strivel by a and the nour
+And and welll now, and thu my nor by atur the splle you:
+Thave nor opeter the som the on moth a
+---------------

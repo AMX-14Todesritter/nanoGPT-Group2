@@ -1,0 +1,22 @@
+Overriding: out_dir = /content/nanoGPT/nanoGPT_Member2_Working/run_19/checkpoint
+Overriding: device = cuda
+Overriding: compile = False
+Overriding: seed = 1337
+Overriding: num_samples = 1
+Overriding: max_new_tokens = 300
+Overriding: temperature = 0.8
+Overriding: top_k = 20
+number of parameters: 1.19M
+Loading meta from data/shakespeare_char/meta.pkl...
+
+CANCIO:
+Strid wwill that fert madise a of oule.
+Sagrtans me tat of barththier wearth.
+
+PROMEO:
+So, hisw crup and not to hown heavens, tof it he me mir;
+I linches is end notin latiser dies the and
+Will may is wan of lilind thall the my deavey:
+As that she why mouren's nor opeaniat sond:
+I lead moth g
+---------------

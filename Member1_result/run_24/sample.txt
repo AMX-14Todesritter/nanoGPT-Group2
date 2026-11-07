@@ -1,0 +1,22 @@
+Overriding: out_dir = /content/nanoGPT/nanoGPT_Member1_Results/run_24/checkpoint
+Overriding: device = cuda
+Overriding: compile = False
+Overriding: seed = 1337
+Overriding: num_samples = 1
+Overriding: max_new_tokens = 300
+Overriding: temperature = 0.8
+Overriding: top_k = 20
+number of parameters: 0.80M
+Loading meta from data/shakespeare_char/meta.pkl...
+
+Whe they brid own, have so be madisen bode to tanth the the gatanss:
+Whit he sheart to bardethat ane awich my.
+
+HERT:
+Ay nem he owns, tof is he me mithed ling es is end.
+
+Willlat you drove the the me now on that of loring thave
+the me derve sprupe aisstlle you lother not
+To this downk:
+I lood moth a
+---------------

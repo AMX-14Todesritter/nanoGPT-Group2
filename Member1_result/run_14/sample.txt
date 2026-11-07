@@ -1,0 +1,19 @@
+Overriding: out_dir = /content/nanoGPT/nanoGPT_Member1_Results/run_14/checkpoint
+Overriding: device = cuda
+Overriding: compile = False
+Overriding: seed = 1337
+Overriding: num_samples = 1
+Overriding: max_new_tokens = 300
+Overriding: temperature = 0.8
+Overriding: top_k = 20
+number of parameters: 3.16M
+Loading meta from data/shakespeare_char/meta.pkl...
+
+
+YORK:
+By didce, and is the the a see but of thanter-day me talands:
+Whith fould a he that dilth ane arche my thand a with mus
+You sproof is heart milend like es is enteng,
+A latist in ove the the know him. That thel lind that this my deave speart ands
+Withy hell and noth peaking son my liked moth k
+---------------

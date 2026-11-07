@@ -1,0 +1,22 @@
+Overriding: out_dir = /content/nanoGPT/nanoGPT_Member3_Working/run_55/checkpoint
+Overriding: device = cuda
+Overriding: compile = False
+Overriding: seed = 1337
+Overriding: num_samples = 1
+Overriding: max_new_tokens = 300
+Overriding: temperature = 0.8
+Overriding: top_k = 20
+number of parameters: 1.19M
+Loading meta from data/shakespeare_char/meta.pkl...
+
+
+All beford will and is by be madised bube to take
+On the call and barthiphed will hert?
+
+MEXENIUS:
+Whre that thank's of ormune of the of it hearth!
+Wheren that mire, send, will is there by packe
+Will may good bood liking thand the reccchiry:
+As that speaw you love she roopeter'd sond:
+I swo then ag
+---------------

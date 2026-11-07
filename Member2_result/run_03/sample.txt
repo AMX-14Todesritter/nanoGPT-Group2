@@ -1,0 +1,22 @@
+Overriding: out_dir = /content/nanoGPT/nanoGPT_Member2_Working/run_03/checkpoint
+Overriding: device = cuda
+Overriding: compile = False
+Overriding: seed = 1337
+Overriding: num_samples = 1
+Overriding: max_new_tokens = 300
+Overriding: temperature = 0.8
+Overriding: top_k = 20
+number of parameters: 1.19M
+Loading meta from data/shakespeare_char/meta.pkl...
+
+CANET:
+I brid owild that fert madire a of oure.
+Say the the gatanss ar baghe ut he heet?
+
+MEXEND:
+A, awilld you, not com ofour
+Yours, tof is he cove the in bunes if etheng,
+A lat seacerer the and the now on that of lirind
+Thall the me de my sore that splaw yean's
+I'l nor opeee ave whould swoull thak
+---------------

@@ -1,0 +1,20 @@
+Overriding: out_dir = /content/nanoGPT/nanoGPT_Member3_Working/run_02/checkpoint
+Overriding: device = cuda
+Overriding: compile = False
+Overriding: seed = 1337
+Overriding: num_samples = 1
+Overriding: max_new_tokens = 300
+Overriding: temperature = 0.8
+Overriding: top_k = 20
+number of parameters: 0.80M
+Loading meta from data/shakespeare_char/meta.pkl...
+
+CARETARRRD:
+Thow and is bore that sere oue tontanth th my thaceanss ar hthar shear, t.
+War CORAS:
+Ae arice myou fondarom orou t owhthetof isth be t il ndilincath iree seng,
+A latist iliov the and th pomanonderans!
+
+And nd te llllishe ce hiry pthar aissthe, y hellinde n amope s aves
+Ang the the tounk
+---------------

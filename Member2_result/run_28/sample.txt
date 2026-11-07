@@ -1,0 +1,20 @@
+Overriding: out_dir = /content/nanoGPT/nanoGPT_Member2_Working/run_28/checkpoint
+Overriding: device = cuda
+Overriding: compile = False
+Overriding: seed = 1337
+Overriding: num_samples = 1
+Overriding: max_new_tokens = 300
+Overriding: temperature = 0.8
+Overriding: top_k = 20
+number of parameters: 4.74M
+Loading meta from data/shakespeare_char/meta.pkl...
+
+When thy bridce.
+
+SOROLOUS:
+Sir a see but our take and my day, and bartith fould
+By they comelaccaue are the he fastar mento heavens
+Moof in hear this nown that mireens, have lat stain ove their;
+Whe now the wan thel lind thand thus woul my spear;
+Or speatty hold and not of this down my liked moth a
+---------------

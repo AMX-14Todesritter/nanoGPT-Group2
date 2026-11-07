@@ -1,0 +1,19 @@
+Overriding: out_dir = /content/nanoGPT/nanoGPT_Member1_Results/run_20/checkpoint
+Overriding: device = cuda
+Overriding: compile = False
+Overriding: seed = 1337
+Overriding: num_samples = 1
+Overriding: max_new_tokens = 300
+Overriding: temperature = 0.8
+Overriding: top_k = 20
+number of parameters: 0.80M
+Loading meta from data/shakespeare_char/meta.pkl...
+
+CARED:
+I thid owild to lay beer aisen bube to tanth the the tatanss:
+Whit he shear heet ar dingh ane awilld you,
+Thand my to he ownth tof is hear thil now
+Whave miree sen cin lat strid or the and the nour iser
+bons lilind thall thue wonch by ather aiss hew you:
+That I trood thig downke the the tou g
+---------------

@@ -1,0 +1,24 @@
+Overriding: out_dir = /content/nanoGPT/nanoGPT_Member2_Working/run_17/checkpoint
+Overriding: device = cuda
+Overriding: compile = False
+Overriding: seed = 1337
+Overriding: num_samples = 1
+Overriding: max_new_tokens = 300
+Overriding: temperature = 0.8
+Overriding: top_k = 20
+number of parameters: 1.19M
+Loading meta from data/shakespeare_char/meta.pkl...
+
+CANCIO:
+Ror wcowild, is sor thith se my be toe.
+SI Ono SABES:
+Tand bar ha he sheart tot ar dilas ane awice my.
+
+
+DEROYINGCEN T:
+O themt fow the me my wourt that miree senghin lat sthil ove than.
+
+Whe ISGUS:
+Than thel lind thave thuce onch by sthar aiss he,
+I hellinge nor ope sig weand thy wo thealle
+---------------

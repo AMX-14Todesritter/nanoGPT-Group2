@@ -1,0 +1,20 @@
+Overriding: out_dir = /content/nanoGPT/nanoGPT_Member1_Results/run_12/checkpoint
+Overriding: device = cuda
+Overriding: compile = False
+Overriding: seed = 1337
+Overriding: num_samples = 1
+Overriding: max_new_tokens = 300
+Overriding: temperature = 0.8
+Overriding: top_k = 20
+number of parameters: 3.16M
+Loading meta from data/shakespeare_char/meta.pkl...
+
+And they bridce.
+
+SOMOLOUS:
+Sir a sen boy, a what hat's the gaed
+My arthis foul him to bard that ane arche my than the me to heave
+spate that come milend like es is enten minils is theres the do be long:
+With and selflind that this my deave the priness him you lord.
+In and and a down my like the mak
+---------------

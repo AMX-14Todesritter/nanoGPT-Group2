@@ -1,0 +1,18 @@
+Overriding: out_dir = /content/nanoGPT/nanoGPT_Member1_Results/run_11/checkpoint
+Overriding: device = cuda
+Overriding: compile = False
+Overriding: seed = 1337
+Overriding: num_samples = 1
+Overriding: max_new_tokens = 300
+Overriding: temperature = 0.8
+Overriding: top_k = 20
+number of parameters: 3.16M
+Loading meta from data/shakespeare_char/meta.pkl...
+
+
+Clove for your face is and the dissted be to take and my day
+Take barthing thy him to bard that ane away, my fornst to how
+When what to that come mill did that mire, sent, will is the lorts,
+He kin the his that of like dise of the me now has the baises,
+Aty hold mad nor of this dess my liked moth a
+---------------

@@ -1,0 +1,18 @@
+Overriding: out_dir = /content/nanoGPT/nanoGPT_Member3_Working/run_11/checkpoint
+Overriding: device = cuda
+Overriding: compile = False
+Overriding: seed = 1337
+Overriding: num_samples = 1
+Overriding: max_new_tokens = 300
+Overriding: temperature = 0.8
+Overriding: top_k = 20
+number of parameters: 3.16M
+Loading meta from data/shakespeare_char/meta.pkl...
+
+And the from cord, which yet that see but our saven them;
+That and be that foul him to beced lassan,
+And the cannot a will our nowns, to that I commal now
+Whice mine, sent, will is the loves, and the now one was of like dise of the rece;
+And what have the tybanle and nor of this dest my liked me,
+If
+---------------

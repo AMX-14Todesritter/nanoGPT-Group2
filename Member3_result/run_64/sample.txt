@@ -1,0 +1,28 @@
+Overriding: out_dir = /content/nanoGPT/nanoGPT_Member3_Working/run_64/checkpoint
+Overriding: device = cuda
+Overriding: compile = False
+Overriding: seed = 1337
+Overriding: num_samples = 1
+Overriding: max_new_tokens = 300
+Overriding: temperature = 0.8
+Overriding: top_k = 20
+number of parameters: 4.74M
+Loading meta from data/shakespeare_char/meta.pkl...
+
+
+ANGELO:
+And comford, and, but be the bobe to take and my day.
+
+GLOUCESTER:
+Nur comment?
+
+MERCUTIO:
+Why crown.
+
+GREMIO:
+Go must of the caust her that well in a grieve,
+In contle is the loves and be none:
+What and self in you here she coundry at princess,
+Any your name or do this death:
+I who like ag
+---------------

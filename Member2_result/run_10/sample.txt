@@ -1,0 +1,18 @@
+Overriding: out_dir = /content/nanoGPT/nanoGPT_Member2_Working/run_10/checkpoint
+Overriding: device = cuda
+Overriding: compile = False
+Overriding: seed = 1337
+Overriding: num_samples = 1
+Overriding: max_new_tokens = 300
+Overriding: temperature = 0.8
+Overriding: top_k = 20
+number of parameters: 4.74M
+Loading meta from data/shakespeare_char/meta.pkl...
+
+Whe the the whow and is by be mad seak of buteranth ther me?
+
+Tand bart that shere heet? Fentle wate aw crom and not com onoth
+Bowng moof ing come milend lincees ifee:
+In cin lat sot drove the the me now the wat spel lind thall thust cour by stage ands hiw you lome.
+I mand and ave whom the the to kn
+---------------

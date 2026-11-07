@@ -1,0 +1,18 @@
+Overriding: out_dir = /content/nanoGPT/nanoGPT_Member3_Working/run_23/checkpoint
+Overriding: device = cuda
+Overriding: compile = False
+Overriding: seed = 1337
+Overriding: num_samples = 1
+Overriding: max_new_tokens = 300
+Overriding: temperature = 0.8
+Overriding: top_k = 20
+number of parameters: 0.80M
+Loading meta from data/shakespeare_char/meta.pkl...
+
+And they bride with to lay be madised bube to take
+On the datchanss art that she wort. Ware that ane away,
+And have a will our to them of it heart mil;
+And that misters, hein lad strid ove the death porniong wars!
+All in you lie huse on him speart and the tye will,
+He now pater to whom the out to ki
+---------------

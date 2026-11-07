@@ -1,0 +1,25 @@
+Overriding: out_dir = /content/nanoGPT/nanoGPT_Member1_Results/run_02/checkpoint
+Overriding: device = cuda
+Overriding: compile = False
+Overriding: seed = 1337
+Overriding: num_samples = 1
+Overriding: max_new_tokens = 300
+Overriding: temperature = 0.8
+Overriding: top_k = 20
+number of parameters: 0.80M
+Loading meta from data/shakespeare_char/meta.pkl...
+
+And thak thid owind tis s, be madisen bube t e.
+SINO:
+
+Souchachangs ar hthar ay he he. bar dilas ate ar ce my.
+
+
+DERORD GIING:
+
+
+
+Gofrtof isthe me mil ndill, ath iree seng, wilat sttid ov the and
+Whe noritis wan thel lind te lleliser onchiry sthe; aiss he,
+I hellind I troupe sig I whomery wod methak
+---------------

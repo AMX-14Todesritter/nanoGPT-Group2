@@ -1,0 +1,20 @@
+Overriding: out_dir = /content/nanoGPT/nanoGPT_Member3_Working/run_27/checkpoint
+Overriding: device = cuda
+Overriding: compile = False
+Overriding: seed = 1337
+Overriding: num_samples = 1
+Overriding: max_new_tokens = 300
+Overriding: temperature = 0.8
+Overriding: top_k = 20
+number of parameters: 3.16M
+Loading meta from data/shakespeare_char/meta.pkl...
+
+
+All beford will and is so be madere, but our take reath
+Beatied heave him foul him to barterlace,
+But che purt fallace honour
+Bown ortom in he could well in at mire,
+Evencies at stain ove the death the wouldrace!
+All in you hate she course speak the speak you love.
+In and and and who thy would that
+---------------

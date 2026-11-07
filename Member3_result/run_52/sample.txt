@@ -1,0 +1,21 @@
+Overriding: out_dir = /content/nanoGPT/nanoGPT_Member3_Working/run_52/checkpoint
+Overriding: device = cuda
+Overriding: compile = False
+Overriding: seed = 1337
+Overriding: num_samples = 1
+Overriding: max_new_tokens = 300
+Overriding: temperature = 0.8
+Overriding: top_k = 20
+number of parameters: 1.19M
+Loading meta from data/shakespeare_char/meta.pkl...
+
+CANELARRRO:
+O wor, he son, be madire my be to tanth ther mealand
+My ard that us he he thar dinth ane awiced you,
+Thand merem he owns moof in he me mit nown.
+
+
+KING Yet Ro min lat strid ove the the me nown iser bood lor now,
+Sher hus wonch by atur haiss hew you lommes nor
+To thig de hom the the toung
+---------------

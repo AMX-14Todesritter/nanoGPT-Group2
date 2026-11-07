@@ -1,0 +1,19 @@
+Overriding: out_dir = /content/nanoGPT/nanoGPT_Member1_Results/run_13/checkpoint
+Overriding: device = cuda
+Overriding: compile = False
+Overriding: seed = 1337
+Overriding: num_samples = 1
+Overriding: max_new_tokens = 300
+Overriding: temperature = 0.8
+Overriding: top_k = 20
+number of parameters: 3.16M
+Loading meta from data/shakespeare_char/meta.pkl...
+
+
+AUTOLLORY:
+O, will that you that sen but of that grave the gatants:
+Whith foul him to bace that ane are the cannond,
+And to heavens moof is heart milend like ef is enteng,
+And time in ove the deating man is warmes like diencle thus, courment the haves
+Withy hell night and and and whom the she cames
+---------------

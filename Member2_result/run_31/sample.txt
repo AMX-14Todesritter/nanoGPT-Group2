@@ -1,0 +1,24 @@
+Overriding: out_dir = /content/nanoGPT/nanoGPT_Member2_Working/run_31/checkpoint
+Overriding: device = cuda
+Overriding: compile = False
+Overriding: seed = 1337
+Overriding: num_samples = 1
+Overriding: max_new_tokens = 300
+Overriding: temperature = 0.8
+Overriding: top_k = 20
+number of parameters: 4.74M
+Loading meta from data/shakespeare_char/meta.pkl...
+
+
+ANGELO:
+And come, which yet that set be you way.
+
+GLOUCESTER:
+Not be that foul hath you we that ane away, my facest,
+And In heavent, to that I confil now
+What slife, sing in the set drove to do me not.
+
+First Come like dispard:
+As my deady so speaking him you long.
+I came, this dest my low, thee ag
+---------------

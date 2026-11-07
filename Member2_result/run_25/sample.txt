@@ -1,0 +1,23 @@
+Overriding: out_dir = /content/nanoGPT/nanoGPT_Member2_Working/run_25/checkpoint
+Overriding: device = cuda
+Overriding: compile = False
+Overriding: seed = 1337
+Overriding: num_samples = 1
+Overriding: max_new_tokens = 300
+Overriding: temperature = 0.8
+Overriding: top_k = 20
+number of parameters: 4.74M
+Loading meta from data/shakespeare_char/meta.pkl...
+
+And the meridlewf, have so be madient but bute.
+Shir-day me gatanss:
+Whith fould word. Ward that ane swith my thenstarry of me
+Your proove the be this nown.
+
+CLIUCHY:
+End con latiser drove the the me now theer bothel lind that.
+
+AUDIUK:
+His spear baiss hew you lome she rood this down
+For swor moth g
+---------------

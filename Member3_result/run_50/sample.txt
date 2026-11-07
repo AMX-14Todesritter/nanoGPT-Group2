@@ -1,0 +1,27 @@
+Overriding: out_dir = /content/nanoGPT/nanoGPT_Member3_Working/run_50/checkpoint
+Overriding: device = cuda
+Overriding: compile = False
+Overriding: seed = 1337
+Overriding: num_samples = 1
+Overriding: max_new_tokens = 300
+Overriding: temperature = 0.8
+Overriding: top_k = 20
+number of parameters: 1.19M
+Loading meta from data/shakespeare_char/meta.pkl...
+
+CANCABRRRD:
+Thow and is sore that sen boue ton.
+SIOO:
+
+Sourelat ous ar ha he shear he thar dilas ate ar ce my.
+
+
+DEROYINGIINI:
+Yow, prtof isth bot mil ndill, at miree s, hain lat;
+Fr d ovet wand win thean ilerans!
+
+ARIUS:
+
+Th thens my no my sprupr aiss he, y mour mal n amope sig
+I whom tll the tou a
+---------------

@@ -1,0 +1,20 @@
+Overriding: out_dir = /content/nanoGPT/nanoGPT_Member1_Results/run_07/checkpoint
+Overriding: device = cuda
+Overriding: compile = False
+Overriding: seed = 1337
+Overriding: num_samples = 1
+Overriding: max_new_tokens = 300
+Overriding: temperature = 0.8
+Overriding: top_k = 20
+number of parameters: 0.80M
+Loading meta from data/shakespeare_char/meta.pkl...
+
+When beford will and is to be madise,
+More to tand and my datied
+he arthip foul him to bardetle oare away,
+And have a of or me
+You some fort her thand now in a grivee son comilat;
+Fr drove to and the now on that of like to ward the me
+But hy pruppiness hiw you loth she roopeter'd sond:
+I lood moth g
+---------------

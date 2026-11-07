@@ -1,0 +1,22 @@
+Overriding: out_dir = /content/nanoGPT/nanoGPT_Member2_Working/run_16/checkpoint
+Overriding: device = cuda
+Overriding: compile = False
+Overriding: seed = 1337
+Overriding: num_samples = 1
+Overriding: max_new_tokens = 300
+Overriding: temperature = 0.8
+Overriding: top_k = 20
+number of parameters: 4.74M
+Loading meta from data/shakespeare_char/meta.pkl...
+
+
+ANGELO:
+And come, which yet that see but our take rudes
+Beatied he arm that us crown. Warwith hoate away,
+And not the mento heavent, to that I conmil now
+Whate misters, and that staid ove the death the honour boodel.
+
+Shall Citizen:
+No him so sperainst, why hold not nor do this death:
+I swould that
+---------------

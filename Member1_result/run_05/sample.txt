@@ -1,0 +1,22 @@
+Overriding: out_dir = /content/nanoGPT/nanoGPT_Member1_Results/run_05/checkpoint
+Overriding: device = cuda
+Overriding: compile = False
+Overriding: seed = 1337
+Overriding: num_samples = 1
+Overriding: max_new_tokens = 300
+Overriding: temperature = 0.8
+Overriding: top_k = 20
+number of parameters: 0.80M
+Loading meta from data/shakespeare_char/meta.pkl...
+
+MANE:
+Durt, wcowill to lay be madisen bube to tanth ther
+Beatied he ar hip fould a hent?
+
+
+CORUS:
+And with my thand a of ormur
+You shat fuit he me millld to wath is ees,
+I in lat staid of the and the nop on thabsesel lind thall thus wou hity stup;
+O shall, you lom an nord peang to whould shou moth g
+---------------

@@ -1,0 +1,20 @@
+Overriding: out_dir = /content/nanoGPT/nanoGPT_Member3_Working/run_61/checkpoint
+Overriding: device = cuda
+Overriding: compile = False
+Overriding: seed = 1337
+Overriding: num_samples = 1
+Overriding: max_new_tokens = 300
+Overriding: temperature = 0.8
+Overriding: top_k = 20
+number of parameters: 4.74M
+Loading meta from data/shakespeare_char/meta.pkl...
+
+And they bride will to lifest madient bubs to take reath
+Beatioanss art that sheart to bard that ane away,
+And hand a will our to theme frice come milend;
+Whate mire, sen mintlation, drove the the kear.
+
+WARWICK:
+Well in you livess, would by stage and all ty moust,
+He crouse to to with the the to ag
+---------------

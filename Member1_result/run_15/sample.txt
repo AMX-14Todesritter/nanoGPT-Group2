@@ -1,0 +1,22 @@
+Overriding: out_dir = /content/nanoGPT/nanoGPT_Member1_Results/run_15/checkpoint
+Overriding: device = cuda
+Overriding: compile = False
+Overriding: seed = 1337
+Overriding: num_samples = 1
+Overriding: max_new_tokens = 300
+Overriding: temperature = 0.8
+Overriding: top_k = 20
+number of parameters: 3.16M
+Loading meta from data/shakespeare_char/meta.pkl...
+
+
+Clown:
+Reak cown, which you that senature to take and my day;
+And be that foul him to becoment oates with my fears
+appy on my to them of it heart my follow,
+We miseech not will it the overs, and the news in was theirs no mean.
+
+AUTOLYCUS:
+Now up the speak you lord.
+I can peak a down my liked mother
+---------------

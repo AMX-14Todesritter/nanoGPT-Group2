@@ -1,0 +1,24 @@
+Overriding: out_dir = /content/nanoGPT/nanoGPT_Member3_Working/run_51/checkpoint
+Overriding: device = cuda
+Overriding: compile = False
+Overriding: seed = 1337
+Overriding: num_samples = 1
+Overriding: max_new_tokens = 300
+Overriding: temperature = 0.8
+Overriding: top_k = 20
+number of parameters: 1.19M
+Loading meta from data/shakespeare_char/meta.pkl...
+
+
+
+COMARRLA:
+O, will that fert madiest bode to take rud my dagatans!
+You that shear hent?
+
+MEXENS:
+A, away, my thand a will mure of the of is heart mithth;
+Whou grive, sen cin lat strid ove the the me now ond wand
+Welll now wall the my dengey:
+Sur haves hew you lome.
+I now patelaves hom the on mothak
+---------------

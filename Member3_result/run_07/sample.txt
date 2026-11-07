@@ -1,0 +1,19 @@
+Overriding: out_dir = /content/nanoGPT/nanoGPT_Member3_Working/run_07/checkpoint
+Overriding: device = cuda
+Overriding: compile = False
+Overriding: seed = 1337
+Overriding: num_samples = 1
+Overriding: max_new_tokens = 300
+Overriding: temperature = 0.8
+Overriding: top_k = 20
+number of parameters: 0.80M
+Loading meta from data/shakespeare_char/meta.pkl...
+
+And the maked own, have so be madises boay,
+And magen' my dagatanss: and him shear, they comelt
+Have awick my than the me to heavens, to that come milend;
+What sill enten comilationt drove the the knong:
+Will and well in you likens my deave spear;
+Ond the tye will all off pater to whom
+the ould that
+---------------

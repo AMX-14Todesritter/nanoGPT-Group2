@@ -1,0 +1,23 @@
+Overriding: out_dir = /content/nanoGPT/nanoGPT_Member3_Working/run_37/checkpoint
+Overriding: device = cuda
+Overriding: compile = False
+Overriding: seed = 1337
+Overriding: num_samples = 1
+Overriding: max_new_tokens = 300
+Overriding: temperature = 0.8
+Overriding: top_k = 20
+number of parameters: 1.19M
+Loading meta from data/shakespeare_char/meta.pkl...
+
+
+
+CORIORRD:
+O, will that fert madiren boay to tanth the theald
+doust thit he us he he thar dilth ane awich my.
+
+HARIOY I yem henowns, tof it he me mithed;
+Whoues is end nomin lat strid or the and
+Willd an is wand welll now, and the my derve sprup;
+Ond thew you lome she amopeser the hom
+the oul to ak
+---------------

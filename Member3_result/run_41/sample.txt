@@ -1,0 +1,22 @@
+Overriding: out_dir = /content/nanoGPT/nanoGPT_Member3_Working/run_41/checkpoint
+Overriding: device = cuda
+Overriding: compile = False
+Overriding: seed = 1337
+Overriding: num_samples = 1
+Overriding: max_new_tokens = 300
+Overriding: temperature = 0.8
+Overriding: top_k = 20
+number of parameters: 4.74M
+Loading meta from data/shakespeare_char/meta.pkl...
+
+
+
+COLADk I whe will to lo, be madise, bube to take ruand the and
+My arthis fould a he that dilth ane away, my thand a with mus
+am there fuing come milendill, and if enten cintlatiser,
+Wor the and the now the wand well in you litthe my dervey:
+As that spele yeanless'd normose sirvis home.
+
+CLARUMES:
+
+---------------

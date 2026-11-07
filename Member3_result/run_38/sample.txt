@@ -1,0 +1,20 @@
+Overriding: out_dir = /content/nanoGPT/nanoGPT_Member3_Working/run_38/checkpoint
+Overriding: device = cuda
+Overriding: compile = False
+Overriding: seed = 1337
+Overriding: num_samples = 1
+Overriding: max_new_tokens = 300
+Overriding: temperature = 0.8
+Overriding: top_k = 20
+number of parameters: 1.19M
+Loading meta from data/shakespeare_char/meta.pkl...
+
+CARCABRRRD:
+O, wilen is by be mad sen boay ton.
+SIOO:
+I thealatanss ar hap fou the he thar dilas anes wice,
+And fond com oroure ownth tof is he me mil ndill,
+Wes iree sen cin lat sthid ove theand the nour iser
+bous ler nd thall the me de my sprupr aisstht,
+If whe mas normope sig deand thy woul toung
+---------------

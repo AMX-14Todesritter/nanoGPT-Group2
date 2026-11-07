@@ -1,0 +1,19 @@
+Overriding: out_dir = /content/nanoGPT/nanoGPT_Member3_Working/run_24/checkpoint
+Overriding: device = cuda
+Overriding: compile = False
+Overriding: seed = 1337
+Overriding: num_samples = 1
+Overriding: max_new_tokens = 300
+Overriding: temperature = 0.8
+Overriding: top_k = 20
+number of parameters: 0.80M
+Loading meta from data/shakespeare_char/meta.pkl...
+
+And the my you will that fert madises bube to tanth
+Sand mealinang bart that us hat to bardeth.
+
+GLestway, my thans a will our to the tof it heart mil;
+I ling their ensen cintlatis therer the and the nown is wand
+Welll now walll he my de my sother aiss hew you lom,
+He you pater to whould thou moth g
+---------------

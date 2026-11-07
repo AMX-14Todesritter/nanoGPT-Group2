@@ -1,0 +1,21 @@
+Overriding: out_dir = /content/nanoGPT/nanoGPT_Member2_Working/run_08/checkpoint
+Overriding: device = cuda
+Overriding: compile = False
+Overriding: seed = 1337
+Overriding: num_samples = 1
+Overriding: max_new_tokens = 300
+Overriding: temperature = 0.8
+Overriding: top_k = 20
+number of parameters: 1.19M
+Loading meta from data/shakespeare_char/meta.pkl...
+
+Whe the to you will to lay be madiest bube to tan
+Brut my dagatauss ar buphe us him to bardeth.
+
+GLersway, my thand a with mus
+Lowns, tof is he me my woulld, at miree sen comilat;
+Frive shat and with now that and welll now, and the my dervey:
+As that splaw you lome.
+ICHBRTIOR:
+To sweret you demeth a
+---------------

@@ -1,0 +1,21 @@
+Overriding: out_dir = /content/nanoGPT/nanoGPT_Member1_Results/run_08/checkpoint
+Overriding: device = cuda
+Overriding: compile = False
+Overriding: seed = 1337
+Overriding: num_samples = 1
+Overriding: max_new_tokens = 300
+Overriding: temperature = 0.8
+Overriding: top_k = 20
+number of parameters: 0.80M
+Loading meta from data/shakespeare_char/meta.pkl...
+
+Whe the not do will to o f be madise,
+More to tand and my dotiedess and that us him to bardeth.
+
+GLen:
+Her my thand a of of me
+You some ford he me milend to caus if eesent,
+A lat that to by paine the now on that of lor now,
+So this my deave the priness hiw you lome.
+I now peand the hom the the to ki
+---------------

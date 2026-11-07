@@ -1,0 +1,22 @@
+Overriding: out_dir = /content/nanoGPT/nanoGPT_Member2_Working/run_24/checkpoint
+Overriding: device = cuda
+Overriding: compile = False
+Overriding: seed = 1337
+Overriding: num_samples = 1
+Overriding: max_new_tokens = 300
+Overriding: temperature = 0.8
+Overriding: top_k = 20
+number of parameters: 1.19M
+Loading meta from data/shakespeare_char/meta.pkl...
+
+And the of incow and is and the a seak of our tarther.
+
+MENCELUS:
+I'll buphe us him to bardetlas ane awick,
+And for arrm ofour to them of is heart my welll.
+
+CLORENCE:
+In com latient, to by wand with now on that thelll now
+Thou thus wouch by ature ais plow you lom,
+He mam paterives hom the oull thak
+---------------

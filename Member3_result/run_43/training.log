@@ -1,0 +1,107 @@
+Overriding config with config/train_shakespeare_char.py:
+# train a miniature character-level shakespeare model
+# good for debugging and playing on macbooks and such
+
+out_dir = 'out-shakespeare-char'
+eval_interval = 250 # keep frequent because we'll overfit
+eval_iters = 200
+log_interval = 10 # don't print too too often
+
+# we expect to overfit on this small dataset, so only save when val improves
+always_save_checkpoint = False
+
+wandb_log = False # override via command line if you like
+wandb_project = 'shakespeare-char'
+wandb_run_name = 'mini-gpt'
+
+dataset = 'shakespeare_char'
+gradient_accumulation_steps = 1
+batch_size = 64
+block_size = 256 # context of up to 256 previous characters
+
+# baby GPT model :)
+n_layer = 6
+n_head = 6
+n_embd = 384
+dropout = 0.2
+
+learning_rate = 1e-3 # with baby networks can afford to go a bit higher
+max_iters = 5000
+lr_decay_iters = 5000 # make equal to max_iters usually
+min_lr = 1e-4 # learning_rate / 10 usually
+beta2 = 0.99 # make a bit bigger because number of tokens per iter is small
+
+warmup_iters = 100 # not super necessary potentially
+
+# on macbook also add
+# device = 'cpu'  # run on cpu only
+# compile = False # do not torch compile the model
+
+Overriding: device = cuda
+Overriding: compile = False
+Overriding: init_from = scratch
+Overriding: gradient_accumulation_steps = 1
+Overriding: always_save_checkpoint = True
+Overriding: eval_interval = 200
+Overriding: eval_iters = 40
+Overriding: log_interval = 100
+Overriding: out_dir = /content/nanoGPT/nanoGPT_Member3_Working/run_43/checkpoint
+Overriding: block_size = 128
+Overriding: n_layer = 6
+Overriding: n_head = 4
+Overriding: n_embd = 256
+Overriding: batch_size = 8
+Overriding: max_iters = 2000
+Overriding: lr_decay_iters = 2000
+Overriding: dropout = 0.1
+tokens per iteration will be: 1,024
+found vocab_size = 65 (inside data/shakespeare_char/meta.pkl)
+Initializing a new model from scratch
+number of parameters: 4.74M
+/content/nanoGPT/train.py:196: FutureWarning: `torch.cuda.amp.GradScaler(args...)` is deprecated. Please use `torch.amp.GradScaler('cuda', args...)` instead.
+  scaler = torch.cuda.amp.GradScaler(enabled=(dtype == 'float16'))
+num decayed parameter tensors: 26, with 4,768,000 parameters
+num non-decayed parameter tensors: 13, with 3,328 parameters
+using fused AdamW: True
+step 0: train loss 4.2249, val loss 4.2259
+iter 0: loss 4.2302, time 795.29ms, mfu -100.00%
+iter 100: loss 2.6154, time 12.54ms, mfu 0.81%
+step 200: train loss 2.5070, val loss 2.5032
+saving checkpoint to /content/nanoGPT/nanoGPT_Member3_Working/run_43/checkpoint
+iter 200: loss 2.4481, time 486.53ms, mfu 0.73%
+iter 300: loss 2.4879, time 14.96ms, mfu 0.72%
+step 400: train loss 2.3643, val loss 2.3785
+saving checkpoint to /content/nanoGPT/nanoGPT_Member3_Working/run_43/checkpoint
+iter 400: loss 2.3894, time 467.41ms, mfu 0.65%
+iter 500: loss 2.2232, time 13.08ms, mfu 0.66%
+step 600: train loss 2.1043, val loss 2.1529
+saving checkpoint to /content/nanoGPT/nanoGPT_Member3_Working/run_43/checkpoint
+iter 600: loss 2.1634, time 479.17ms, mfu 0.60%
+iter 700: loss 2.1551, time 14.44ms, mfu 0.61%
+step 800: train loss 2.0015, val loss 2.0601
+saving checkpoint to /content/nanoGPT/nanoGPT_Member3_Working/run_43/checkpoint
+iter 800: loss 2.1717, time 497.17ms, mfu 0.55%
+iter 900: loss 1.9955, time 18.05ms, mfu 0.55%
+step 1000: train loss 1.8763, val loss 2.0134
+saving checkpoint to /content/nanoGPT/nanoGPT_Member3_Working/run_43/checkpoint
+iter 1000: loss 1.9306, time 511.58ms, mfu 0.50%
+iter 1100: loss 1.9884, time 14.49ms, mfu 0.52%
+step 1200: train loss 1.7941, val loss 1.9478
+saving checkpoint to /content/nanoGPT/nanoGPT_Member3_Working/run_43/checkpoint
+iter 1200: loss 1.9306, time 482.08ms, mfu 0.47%
+iter 1300: loss 1.8123, time 12.89ms, mfu 0.50%
+step 1400: train loss 1.7710, val loss 1.8851
+saving checkpoint to /content/nanoGPT/nanoGPT_Member3_Working/run_43/checkpoint
+iter 1400: loss 1.7695, time 474.05ms, mfu 0.45%
+iter 1500: loss 1.8139, time 13.31ms, mfu 0.48%
+step 1600: train loss 1.6931, val loss 1.8361
+saving checkpoint to /content/nanoGPT/nanoGPT_Member3_Working/run_43/checkpoint
+iter 1600: loss 1.7913, time 467.25ms, mfu 0.44%
+iter 1700: loss 1.7111, time 14.82ms, mfu 0.46%
+step 1800: train loss 1.6494, val loss 1.8163
+saving checkpoint to /content/nanoGPT/nanoGPT_Member3_Working/run_43/checkpoint
+iter 1800: loss 1.7480, time 477.89ms, mfu 0.42%
+iter 1900: loss 1.6058, time 13.39ms, mfu 0.45%
+step 2000: train loss 1.6301, val loss 1.8141
+saving checkpoint to /content/nanoGPT/nanoGPT_Member3_Working/run_43/checkpoint
+iter 2000: loss 1.7376, time 491.80ms, mfu 0.41%

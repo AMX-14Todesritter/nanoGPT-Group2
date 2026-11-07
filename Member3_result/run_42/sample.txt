@@ -1,0 +1,18 @@
+Overriding: out_dir = /content/nanoGPT/nanoGPT_Member3_Working/run_42/checkpoint
+Overriding: device = cuda
+Overriding: compile = False
+Overriding: seed = 1337
+Overriding: num_samples = 1
+Overriding: max_new_tokens = 300
+Overriding: temperature = 0.8
+Overriding: top_k = 20
+number of parameters: 4.74M
+Loading meta from data/shakespeare_char/meta.pkl...
+
+CARDWARD ORK:
+Owill to lay beer a set boade werant reand the and
+My ar hip fou the heet ar dilth ane awill my thand a of orome
+Youns makf is he me mill dill, and is ensen cin lat staid ove spaing
+Wild mand beransesel lind thave the me de my sptur hat sple,
+I mell maus mand ane and whome you demet an
+---------------

@@ -1,0 +1,25 @@
+Overriding: out_dir = /content/nanoGPT/nanoGPT_Member2_Working/run_30/checkpoint
+Overriding: device = cuda
+Overriding: compile = False
+Overriding: seed = 1337
+Overriding: num_samples = 1
+Overriding: max_new_tokens = 300
+Overriding: temperature = 0.8
+Overriding: top_k = 20
+number of parameters: 4.74M
+Loading meta from data/shakespeare_char/meta.pkl...
+
+CARET:
+I bridce, and is the the a seak of oure.
+
+KIO:
+I'll all and bard that nothe he that dill way, aw crump.
+
+HERROY:
+Godoughto the to that I coul whell in at mireets, I in latient,
+What the the know and and bothel lind thall thus wouch by prave ands
+Withy hold and noth patelives hom.
+
+LEO:
+What I
+---------------

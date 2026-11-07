@@ -1,0 +1,25 @@
+Overriding: out_dir = /content/nanoGPT/nanoGPT_Member3_Working/run_40/checkpoint
+Overriding: device = cuda
+Overriding: compile = False
+Overriding: seed = 1337
+Overriding: num_samples = 1
+Overriding: max_new_tokens = 300
+Overriding: temperature = 0.8
+Overriding: top_k = 20
+number of parameters: 1.19M
+Loading meta from data/shakespeare_char/meta.pkl...
+
+
+Af the the doow and is and the a sell of oure.
+Sthat I led take he arthipher wick, they comel.
+
+GLestw I way.
+
+HENRY BOLINNIUS:
+I sproove, I come my helll bouth is eas notin;
+Stiser drove the the me now on that spelelind that.
+
+KING RICHARY:
+Surrcaiss hew you lome.
+I now pater the hom the the to ak
+---------------

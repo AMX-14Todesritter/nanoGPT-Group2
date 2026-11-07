@@ -1,0 +1,22 @@
+Overriding: out_dir = /content/nanoGPT/nanoGPT_Member3_Working/run_31/checkpoint
+Overriding: device = cuda
+Overriding: compile = False
+Overriding: seed = 1337
+Overriding: num_samples = 1
+Overriding: max_new_tokens = 300
+Overriding: temperature = 0.8
+Overriding: top_k = 20
+number of parameters: 3.16M
+Loading meta from data/shakespeare_char/meta.pkl...
+
+
+All before with and in the strands of the deed.
+
+BOCKINGHAM:
+Takes art this should to be to lass,
+But when you fall to my must of the of is heart
+Of helple, and it enden mine at strivils to thee
+Will may is was their in you hereight oncely speak;
+Or speak you love's nor of York,
+The power of mother
+---------------
